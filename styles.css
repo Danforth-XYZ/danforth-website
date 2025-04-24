@@ -1,0 +1,41 @@
+body {
+  background-color: #F5F7FA;
+  color: #212121;
+}
+
+.bg-primary {
+  background-color: #1A237E !important;
+}
+
+.text-primary {
+  color: #1A237E !important;
+}
+
+.btn-accent {
+  background-color: #00BCD4;
+  color: #fff;
+  border: none;
+}
+.btn-accent:hover, .btn-accent:focus {
+  background-color: #0097a7;
+  color: #fff;
+}
+
+.hero-section {
+  min-height: 60vh;
+  background: linear-gradient(135deg, #1A237E 60%, #00BCD4 100%);
+  color: #fff;
+  padding: 80px 0 60px 0;
+}
+
+.navbar-brand svg {
+  vertical-align: middle;
+}
+
+.card-title {
+  color: #1A237E;
+}
+
+footer.bg-primary {
+  background-color: #1A237E !important;
+}
